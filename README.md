@@ -3,15 +3,14 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/VcdxxRA7DR"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 </h1> <br>
 
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+## Defi Featured Projects
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+123 | 123 | 123 |123 |123 |123
 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<a href="http://3.128.30.120:3000/launch"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/restaurant-food-370x370.jpg" width="370"></a> | <a href="https://www.celtic-weddingrings.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/rings-site-370x370.jpg" width="370"></a>|<a href="https://smallpondgames.com/mahjong/3d-mahjong/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/mahjong-370x370.jpg" width="370"></a> | <a href="https://portfolio.literally.co.jp/portfolio/e-sport-tournament-app/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/GameShop-1024x1024.jpg" width="370"></a>| <a href="https://aldenplatform.io/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="370"></a>
-<a href="https://panenkatv.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/panenkatv-370x370.jpg" width="370"></a> | <a href="https://girlgaze.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/job-site-370x370.jpg" width="370"></a>|<a href="http://lyu-apps.herokuapp.com/games/bumper-fifa/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/lyu-game-370x370.jpg" width="370"></a> | <a href="https://apps.apple.com/it/app/spreewhere/id1462263606"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Spreewhere-Feature-370x370.jpg" width="370"></a>| <a href="https://bitwilly.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Bitwilly-370x370.jpg" width="370"></a>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
 <table>
