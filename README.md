@@ -87,13 +87,14 @@ FDRAG ICO | https://github.com/firedragonswap/firedragon-presale | https://githu
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
 ### NFT Marketplace Development Based on BSC or ETH Token
-𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 NFT Marketplace in 7 ~ 20 days. This will include NFT Mint, Purchase, Bid, Auction ...
+We can provide NFT Marketplace in 7 ~ 20 days. This will include NFT Mint, Purchase, Bid, Auction ...
  
 ### Speedy Token & Presale Project Development
-𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 Token & Presale Smart Contract very quickly based on Etherium, Binance Smart Chain, Matic, Tron...
+We can provide Token & Presale Smart Contract very quickly based on Etherium, Binance Smart Chain, Matic, Tron...
  
-### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 Defi From Pancakeswap and Goose Defi
+### Builing Defi From Pancakeswap and Goose Defi
 We can provide DEX Product from Pancakeswap or Goose Defi in 1 ~ 3 days.
 
-### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
-𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
+### Finance is our specialty, We already got lots of achievements
+In Cryptocurrencies, Forex and Stocks, We can create and analyze tools at the high level.
+
