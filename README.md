@@ -9,7 +9,8 @@
 ## Defi Featured Projects
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
-123 | 123 | 123 |123 |123 |123
+Marmelade Swap | https://marmelade.finance | https://github.com/marmeladeswap |
+candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap
 
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
