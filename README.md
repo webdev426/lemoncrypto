@@ -10,7 +10,20 @@
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
 Marmelade Swap | https://marmelade.finance | https://github.com/marmeladeswap |
-candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap
+Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
+Super Defi | https://defi.superdna.io | https://github.com/sdnadefi |
+Paws Swap | https://pawswap.app | https://github.com/paws-swap |
+Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
+Xtreme Swap | https://xtremeswap.com | https://github.com/xtremeswap |
+Starky Swap | https://starky.finance | https://github.com/starkyswap |
+Panty Swap | https://pantyswap.yieldpanty.finance | https://github.com/pantyswap |
+Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
+Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
+2xdnd Defi | https://digitalnote.finance | https://github.com/2xdndefi |
+Predator Swap | https://predator.finance | https://github.com/predatorswap |
+Trident Swap | https://kingdomofposeidon.finance | https://github.com/tridentswap |
+Espeon Swap | https://espeonfinance.tech | https://github.com/espeonswap |
+Fire Dragon Swap | https://firedragon.finance | https://github.com/firedragonswap |
 
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
