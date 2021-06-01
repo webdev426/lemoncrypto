@@ -6,6 +6,16 @@
 
 </h1> <br>
 
+## NFT Marketplace Featured Projects
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+Nanai NFT Marketplace | https://www.nanai.io | https://github.com/Nanai-NFT-Marketplace |
+Lemon NFT Marketplace | https://lemonnfts.com | https://github.com/LemonNFTs | 
+ArtDeco NFT Marketplace | http://app.artdeco.community | https://github.com/ArtDecoNFTs |
+Niftiversa NFT Marketplace | https://niftiverse.com/home | https://github.com/Niftiverse-NFTs |
+DogeFather NFT Marketplace | https://dogefathernft.com | https://github.com/DogefatherNFTs |
+
+
 ## Defi Featured Projects
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -26,7 +36,16 @@ Espeon Swap | https://espeonfinance.tech | https://github.com/espeonswap |
 Fire Dragon Swap | https://firedragon.finance | https://github.com/firedragonswap |
 
 
-## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
+## ICO Featured Projects
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+Porn ICO | https://pornswapprivatesale.com | https://github.com/porn-swap/porn-presale |
+PDTR ICO | https://predatorpresale.com | https://github.com/predatorswap/predator-presale | 
+TRDNT ICO | https://github.com/tridentswap/trident-presale | https://github.com/sdnadefi |
+FDRAG ICO | https://github.com/firedragonswap/firedragon-presale | https://github.com/paws-swap |
+
+
+## Skill Set
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
@@ -67,14 +86,14 @@ Fire Dragon Swap | https://firedragon.finance | https://github.com/firedragonswa
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
-### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
-𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
-
-### Speedy 𝘞𝘦𝘣 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯
-𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘏𝘗, 𝘓𝘗, 𝘢𝘯𝘥 𝘞𝘌𝘉 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
-
-### 𝘗𝘊 𝘢𝘯𝘥 𝘚𝘗 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
-𝘐𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘦𝘥 𝘪𝘯𝘦𝘹𝘱𝘦𝘯𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘯𝘥 𝘲𝘶𝘪𝘤𝘬𝘭𝘺. 𝘞𝘦 𝘢𝘳𝘦 𝘢𝘭𝘴𝘰 𝘨𝘰𝘰𝘥 𝘢𝘵 𝘴𝘤𝘳𝘢𝘱𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘤𝘰𝘮𝘦𝘴 𝘵𝘰 𝘗𝘊𝘴.
+### NFT Marketplace Development Based on BSC or ETH Token
+𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 NFT Marketplace in 7 ~ 20 days. This will include NFT Mint, Purchase, Bid, Auction ...
+ 
+### Speedy Token & Presale Project Development
+𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 Token & Presale Smart Contract very quickly based on Etherium, Binance Smart Chain, Matic, Tron...
+ 
+### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 Defi From Pancakeswap and Goose Defi
+We can provide DEX Product from Pancakeswap or Goose Defi in 1 ~ 3 days.
 
 ### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
 𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
