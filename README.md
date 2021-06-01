@@ -84,7 +84,7 @@ FDRAG ICO | https://github.com/firedragonswap/firedragon-presale | https://githu
 ## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
 ### NFT Marketplace Development Based on BSC or ETH Token
 We can provide NFT Marketplace in 7 ~ 20 days. This will include NFT Mint, Purchase, Bid, Auction ...
