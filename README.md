@@ -34,6 +34,8 @@ Predator Swap | https://predator.finance | https://github.com/predatorswap |
 Trident Swap | https://kingdomofposeidon.finance | https://github.com/tridentswap |
 Espeon Swap | https://espeonfinance.tech | https://github.com/espeonswap |
 Fire Dragon Swap | https://firedragon.finance | https://github.com/firedragonswap |
+Ice Dragon Swap | https://icedragon.finance | https://github.com/icedragonswap |
+
 
 
 ## ICO Featured Projects
@@ -41,8 +43,9 @@ Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
 Porn ICO | https://pornswapprivatesale.com | https://github.com/porn-swap/porn-presale |
 PDTR ICO | https://predatorpresale.com | https://github.com/predatorswap/predator-presale | 
-TRDNT ICO | https://github.com/tridentswap/trident-presale | https://github.com/sdnadefi |
-FDRAG ICO | https://github.com/firedragonswap/firedragon-presale | https://github.com/paws-swap |
+TRDNT ICO | https://kingdomofposeidon.com | https://github.com/tridentswap/trident-presale |
+FDRAG ICO | https://firedragonpresale.com | https://github.com/firedragonswap/firedragon-presale |
+ICEDRAG ICO | https://icedragon.live | https://github.com/icedragonswap/icedragon-presale |
 
 
 ## Skill Set
