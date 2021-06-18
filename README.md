@@ -41,6 +41,7 @@ Light Dragon Swap | https://lightdragon.finance/ | https://github.com/darkdragon
 Gold Lion Swap | https://http://goldlion.finance/ | https://github.com/goldlionfinance/ |
 Artic Bear Swap | https://articbear.finance/ | https://github.com/articbearfinance/ |
 Handy Man Swap | https://handyman.finance/ | https://github.com/handymanfinance/ |
+BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
