@@ -14,7 +14,7 @@ Lemon NFT Marketplace | https://lemonnfts.com | https://github.com/LemonNFTs |
 ArtDeco NFT Marketplace | http://app.artdeco.community | https://github.com/ArtDecoNFTs |
 Niftiversa NFT Marketplace | https://niftiverse.com/home | https://github.com/Niftiverse-NFTs |
 DogeFather NFT Marketplace | https://dogefathernft.com | https://github.com/DogefatherNFTs |
-
+Super DNA NFT Marketplace | https://supernft.com | https://github.com/SuperNFT-Marketplace |
 
 ## Defi Featured Projects
 Project Name | Site Url | Github Organize
