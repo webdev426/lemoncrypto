@@ -45,6 +45,9 @@ BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
 ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
 Booze Swap | https://beerswapexchange.com/ | https://github.com/boozeswap/ |
 Jetmoon Swap | https://jetmoonswap.finance/ | https://github.com/jetmoonswap |
+Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
+Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
+Jolly Roger Swap | https://app.jollyroger.finance/ | https://github.com/jollyrogerswap |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
