@@ -48,6 +48,7 @@ Jetmoon Swap | https://jetmoonswap.finance/ | https://github.com/jetmoonswap |
 Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
 Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
 Jolly Roger Swap | https://app.jollyroger.finance/ | https://github.com/jollyrogerswap |
+Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
