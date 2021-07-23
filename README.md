@@ -49,6 +49,7 @@ Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi
 Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
 Jolly Roger Swap | https://app.jollyroger.finance/ | https://github.com/jollyrogerswap |
 Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
+Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
