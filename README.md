@@ -52,6 +52,7 @@ Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
 Levelup Defi | https://levelupdefi.com/ | https://github.com/levelupdefi/ |
 Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
 Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
+BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
