@@ -55,6 +55,7 @@ Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
 BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
 HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
 WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
+PolyLavacake Finance | https://polylavacake.finance/ | https://github.com/polylava-finance/ |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
