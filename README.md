@@ -15,6 +15,15 @@ ArtDeco NFT Marketplace | http://app.artdeco.community | https://github.com/ArtD
 Niftiversa NFT Marketplace | https://niftiverse.com/home | https://github.com/Niftiverse-NFTs |
 DogeFather NFT Marketplace | https://dogefathernft.com | https://github.com/DogefatherNFTs |
 Super DNA NFT Marketplace | https://supernft.com | https://github.com/SuperNFT-Marketplace |
+CryptoMozart NFT Marketplace | https://cryptomozart.io/ | https://github.com/CryptoMozart-NFT |
+PAWZ NFT Marketplace | https://pawzcrypto.shop/ | https://github.com/PAWZ-NFT |
+Memories NFT Marketplace | http://memories.voyr.me/ | https://github.com/Memories-NFT |
+ASSN NFT Marketplace | http://188.166.85.91/ | https://github.com/ASSN-NFT |
+CrowdPoint NFT Marketplace | http://nft.theellipsis.exchange/home | https://github.com/Blokista-NFT-Marketplace |
+NFT Show Auction Marketplace | http://165.227.230.18/ | https://github.com/NFTShow |
+NFFurries NFT Marketplace | https://nffurries.herokuapp.com/ | https://github.com/NFFurries |
+FLAT NFT Marketplace | https://flat-nft.netlify.app/ | https://github.com/flat-swap |
+
 
 ## Defi Featured Projects
 Project Name | Site Url | Github Organize
