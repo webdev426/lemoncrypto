@@ -56,6 +56,8 @@ BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ 
 HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
 WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
 PolyLavacake Finance | https://polylavacake.finance/ | https://github.com/polylava-finance/ |
+SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
+
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
