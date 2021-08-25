@@ -6,7 +6,7 @@
 
 </h1> <br>
 
-## My GITHUB NFT Marketplace Featured Projects
+## NFT Marketplace Featured Projects
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
 Nanai NFT Marketplace | https://www.nanai.io | https://github.com/Nanai-NFT-Marketplace |
