@@ -24,12 +24,23 @@ NFT Show Auction Marketplace | http://165.227.230.18/ | https://github.com/NFTSh
 NFFurries NFT Marketplace | https://nffurries.herokuapp.com/ | https://github.com/NFFurries |
 FLAT NFT Marketplace | https://flat-nft.netlify.app/ | https://github.com/flat-swap |
 
-## Decentralized Exchange Platform
+## Decentralized Exchange Platform (Swap & Liquidity Only)
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
 SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
 Paws Swap | https://pawswap.app | https://github.com/paws-swap |
 Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
+
+## Defi Platform customized from Pancakeswap
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+BitBucks Swap | https://swap.bitbucks.finance | https://github.com/bbswap |
+BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
+Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
+Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
+Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
+BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
+ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
 
 ## Defi Platform customized from Goosedefi
 Project Name | Site Url | Github Organize
@@ -54,17 +65,6 @@ Handy Man Swap | https://handyman.finance/ | https://github.com/handymanfinance/
 Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
 Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
 HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
-
-## Defi Platform customized from Pancakeswap
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-BitBucks Swap | https://swap.bitbucks.finance | https://github.com/bbswap |
-BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
-Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
-Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
-Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
-BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
-ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
