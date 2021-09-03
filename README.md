@@ -24,49 +24,47 @@ NFT Show Auction Marketplace | http://165.227.230.18/ | https://github.com/NFTSh
 NFFurries NFT Marketplace | https://nffurries.herokuapp.com/ | https://github.com/NFFurries |
 FLAT NFT Marketplace | https://flat-nft.netlify.app/ | https://github.com/flat-swap |
 
-
-## Defi Featured Projects
+## Decentralized Exchange Platform
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
-Marmelade Swap | https://marmelade.finance | https://github.com/marmeladeswap |
-Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
-Super Defi | https://defi.superdna.io | https://github.com/sdnadefi |
+SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
 Paws Swap | https://pawswap.app | https://github.com/paws-swap |
-Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
-Xtreme Swap | https://xtremeswap.com | https://github.com/xtremeswap |
-Starky Swap | https://starky.finance | https://github.com/starkyswap |
-Panty Swap | https://pantyswap.yieldpanty.finance | https://github.com/pantyswap |
 Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
-Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
-2xdnd Defi | https://digitalnote.finance | https://github.com/2xdndefi |
+
+## Defi Platform customized from Goosedefi
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
+Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
+Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
+Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
+Levelup Defi | https://levelupdefi.com/ | https://github.com/levelupdefi/ |
+Jolly Roger Swap | https://app.jollyroger.finance/ | https://github.com/jollyrogerswap |
 Predator Swap | https://predator.finance | https://github.com/predatorswap |
 Trident Swap | https://kingdomofposeidon.finance | https://github.com/tridentswap |
 Espeon Swap | https://espeonfinance.tech | https://github.com/espeonswap |
 Fire Dragon Swap | https://firedragon.finance | https://github.com/firedragonswap |
 Ice Dragon Swap | https://icedragon.finance | https://github.com/icedragonswap |
 Dark Dragon Swap | https://darkdragon.finance | https://github.com/darkdragonswap |
-Lightning Dragon Swap | https://lightningdragonfinance.com/ | https://github.com/lightningdragonswap/ |
+Lightning Dragon Swap | https://lightningdragon.finance/ | https://github.com/lightningdragonswap/ |
 Light Dragon Swap | https://lightdragon.finance/ | https://github.com/darkdragonswap/ |
-Gold Lion Swap | https://http://goldlion.finance/ | https://github.com/goldlionfinance/ |
+Gold Lion Swap | https://goldlion.finance/ | https://github.com/goldlionfinance/ |
 Artic Bear Swap | https://articbear.finance/ | https://github.com/articbearfinance/ |
 Handy Man Swap | https://handyman.finance/ | https://github.com/handymanfinance/ |
+Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
+Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
+HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
+
+## Defi Platform customized from Pancakeswap
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+BitBucks Swap | https://swap.bitbucks.finance | https://github.com/bbswap |
+BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
+Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
+Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
+Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
 BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
 ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
-Booze Swap | https://beerswapexchange.com/ | https://github.com/boozeswap/ |
-Jetmoon Swap | https://jetmoonswap.finance/ | https://github.com/jetmoonswap |
-Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
-Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
-Jolly Roger Swap | https://app.jollyroger.finance/ | https://github.com/jollyrogerswap |
-Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
-Levelup Defi | https://levelupdefi.com/ | https://github.com/levelupdefi/ |
-Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
-Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
-BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
-HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
-WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
-PolyLavacake Finance | https://polylavacake.finance/ | https://github.com/polylava-finance/ |
-SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
-
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
