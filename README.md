@@ -27,6 +27,7 @@ FLAT NFT Marketplace | https://flat-nft.netlify.app/ | https://github.com/flat-s
 ## Decentralized Exchange Platform (Swap & Liquidity Only)
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
+ThogeCoin Swap | https://thogechain.com | https://github.com/thoge-swap |
 SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
 Paws Swap | https://pawswap.app | https://github.com/paws-swap |
 Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
