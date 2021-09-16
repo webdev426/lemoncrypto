@@ -6,6 +6,17 @@
 
 </h1> <br>
 
+## NFT Mint Engine Featured Projects
+Project Name | Site Url 
+:-------------------------:|:-------------------------:
+Crypto Keeperz Club | https://www.cryptokeeperz.club/ | 
+Calabasas Kid Club | https://calabasaskidclub.io/ | 
+Cool Aliens | https://coolaliens.fun/ | 
+Elon's Tesla | https://elonstesla.io/ | 
+NF Furries | https://nffurries.io | 
+Crypto Cowboys | http://cryptocowboys.org/ | 
+Crazy Cousinz Club | http://crazycousinz.club/ |
+
 ## NFT Marketplace Featured Projects
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
