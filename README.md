@@ -46,6 +46,10 @@ Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
 ## Defi Platform customized from Pancakeswap
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
+Sapphire Finance | https://sapphireswap.finance/ | https://github.com/sapphire-finance |
+Candy Swap | https://candyswap.one | https://github.com/candies-swap |
+Labi Swap | https://labiswap.finance/ | https://github.com/labiswap |
+PrivacyWall Finance | https://privacycoin.privacywall.org/ | https://github.com/privacy-finance |
 BitBucks Swap | https://swap.bitbucks.finance | https://github.com/bbswap |
 BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
 Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
@@ -58,6 +62,7 @@ ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
 WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
+WWE Swap | https://wwe.wwf.finance/ | https://github.com/wwe-finance |
 Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
 Eclair Swap | https://eclair.finance/ | https://github.com/eclairdefi |
 Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
