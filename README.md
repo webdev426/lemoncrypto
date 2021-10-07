@@ -9,6 +9,13 @@
 ## NFT Mint Engine Featured Projects
 Project Name | Site Url 
 :-------------------------:|:-------------------------:
+Cheeky Chimp Club | https://cheekychimps.club/ | 
+Couch Potatoes | https://couchpotatoestudios.art/ | 
+Genie Quest | https://www.genie.quest/ | 
+Galaxer | https://galaxer.io/ | 
+Chillin Chameleon | https://preciouspixels.art/ | 
+C-Loot Solana | https://solhexloot.com/ | 
+Bored Ape Solana | https://solboredapes.io/ | 
 Crypto Keeperz Club | https://www.cryptokeeperz.club/ | 
 Calabasas Kid Club | https://calabasaskidclub.io/ | 
 Cool Aliens | https://coolaliens.fun/ | 
