@@ -9,6 +9,8 @@
 ## NFT Mint Engine Featured Projects
 Project Name | Site Url 
 :-------------------------:|:-------------------------:
+Mutant Animals | https://mutantanimals.com/ | 
+Crypto Comma Club | https://thecryptocommaclub.com/ | 
 Cheeky Chimp Club | https://cheekychimps.club/ | 
 Couch Potatoes | https://couchpotatoestudios.art/ | 
 Genie Quest | https://www.genie.quest/ | 
