@@ -9,6 +9,9 @@
 ## NFT Mint Engine Featured Projects
 Project Name | Site Url 
 :-------------------------:|:-------------------------:
+Blood Moon | https://bloodmoon.club/ | 
+Crypto Heros And Villains | https://chavs.io/ | 
+Endangered Animals | https://endangeredanimalsnft.io/ |
 Mutant Animals | https://mutantanimals.com/ | 
 Crypto Comma Club | https://thecryptocommaclub.com/ | 
 Cheeky Chimp Club | https://cheekychimps.club/ | 
