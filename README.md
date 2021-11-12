@@ -7,27 +7,40 @@
 </h1> <br>
 
 ## NFT Mint Engine Featured Projects
-Project Name | Site Url 
+Project Name | Site Url | Blockchain
 :-------------------------:|:-------------------------:
-Blood Moon | https://bloodmoon.club/ | 
-Crypto Heros And Villains | https://chavs.io/ | 
-Endangered Animals | https://endangeredanimalsnft.io/ |
-Mutant Animals | https://mutantanimals.com/ | 
-Crypto Comma Club | https://thecryptocommaclub.com/ | 
-Cheeky Chimp Club | https://cheekychimps.club/ | 
-Couch Potatoes | https://couchpotatoestudios.art/ | 
-Genie Quest | https://www.genie.quest/ | 
-Galaxer | https://galaxer.io/ | 
-Chillin Chameleon | https://preciouspixels.art/ | 
-C-Loot Solana | https://solhexloot.com/ | 
-Bored Ape Solana | https://solboredapes.io/ | 
-Crypto Keeperz Club | https://www.cryptokeeperz.club/ | 
-Calabasas Kid Club | https://calabasaskidclub.io/ | 
-Cool Aliens | https://coolaliens.fun/ | 
-Elon's Tesla | https://elonstesla.io/ | 
-NF Furries | https://nffurries.io | 
+Glewme City | http://glewme.com/ | ETH | 
+Fantasy World | https://app.fantasyworld.game/ | ETH | 
+Baby Floki Doge | https://babyflokidogenfts.com/ | ETH | 
+RPS League | https://app.rpsleague.io/ | BSC | 
+Smochi Club | https://smochi.studio/ | FANTOM | 
+Simon NFT | https://thesimonsnft.com/ | ETH | 
+Space Bull | https://thespacebulls.com/ | ETH | 
+Inuland | https://inuland.com/ | ETH | 
+Abnormal Alligators | http://abnormalalligatorsmint.com/ | SOLANA | 
+Sola Girls | https://solagirls.com/ | SOLANA | 
+Key To The City | https://keystothecity.site/ | SOLANA | 
+Awesome Pandas | https://awesomepanda.club/ | SOLANA | 
+Capuchin Crew | https://capuchin-crew.com/ | CARDANO |
+Carndano Animals | https://cardanoanimals.io/ | CARDANO |
+Crypto Heros And Villains | https://chavs.io/ | ETH |
+Endangered Animals | https://endangeredanimalsnft.io/ | SOLANA |
+Mutant Animals | https://mutantanimals.com/ | SOLANA |
+Crypto Comma Club | https://thecryptocommaclub.com/ | ETH | 
+Cheeky Chimp Club | https://cheekychimps.club/ | AVALANCHE |
+Couch Potatoes | https://couchpotatoestudios.art/ | ETH |
+Genie Quest | https://www.genie.quest/ | ETH |
+Galaxer | https://galaxer.io/ | ETH |
+Chillin Chameleon | https://preciouspixels.art/ | ETH |
+C-Loot Solana | https://solhexloot.com/ | SOLANA |
+Bored Ape Solana | https://solboredapes.io/ | SOLANA |
+Crypto Keeperz Club | https://www.cryptokeeperz.club/ | ETH |
+Calabasas Kid Club | https://calabasaskidclub.io/ | ETH |
+Cool Aliens | https://coolaliens.fun/ | ETH |
+Elon's Tesla | https://elonstesla.io/ | ETH |
+NF Furries | https://nffurries.io | ETH |
 Crypto Cowboys | http://cryptocowboys.org/ | 
-Crazy Cousinz Club | http://crazycousinz.club/ |
+Crazy Cousinz Club | http://crazycousinz.club/ | ETH |
 
 ## NFT Marketplace Featured Projects
 Project Name | Site Url | Github Organize
