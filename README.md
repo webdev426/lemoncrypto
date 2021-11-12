@@ -39,7 +39,7 @@ Calabasas Kid Club | https://calabasaskidclub.io/ | ETH |
 Cool Aliens | https://coolaliens.fun/ | ETH |
 Elon's Tesla | https://elonstesla.io/ | ETH |
 NF Furries | https://nffurries.io | ETH |
-Crypto Cowboys | http://cryptocowboys.org/ | 
+Crypto Cowboys | http://cryptocowboys.org/ | ETH |
 Crazy Cousinz Club | http://crazycousinz.club/ | ETH |
 
 ## NFT Marketplace Featured Projects
