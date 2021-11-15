@@ -9,6 +9,8 @@
 ## NFT Mint Engine Featured Projects
 Project Name | Site Url | Blockchain
 :-------------------------:|:-------------------------:|:-------------------------:
+Gnome Shroom Club | https://gnomeshroomclub.com/ | POLYGON | 
+Solana Wizard | https://solanawizards.online/ | SOLANA | 
 Glewme City | http://glewme.com/ | ETH | 
 Fantasy World | https://app.fantasyworld.game/ | ETH | 
 Baby Floki Doge | https://babyflokidogenfts.com/ | ETH | 
