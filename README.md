@@ -18,7 +18,6 @@ RPS League | https://app.rpsleague.io/ | BSC |
 Smochi Club | https://smochi.studio/ | FANTOM | 
 Simon NFT | https://thesimonsnft.com/ | ETH | 
 Space Bull | https://thespacebulls.com/ | ETH | 
-Inuland | https://inuland.com/ | ETH | 
 Abnormal Alligators | http://abnormalalligatorsmint.com/ | SOLANA | 
 Sola Girls | https://solagirls.com/ | SOLANA | 
 Key To The City | https://keystothecity.site/ | SOLANA | 
