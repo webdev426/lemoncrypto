@@ -31,7 +31,6 @@ Crypto Comma Club | https://thecryptocommaclub.com/ | ETH |
 Cheeky Chimp Club | https://cheekychimps.club/ | AVALANCHE |
 Couch Potatoes | https://couchpotatoestudios.art/ | ETH |
 Genie Quest | https://www.genie.quest/ | ETH |
-Galaxer | https://galaxer.io/ | ETH |
 Chillin Chameleon | https://preciouspixels.art/ | ETH |
 C-Loot Solana | https://solhexloot.com/ | SOLANA |
 Bored Ape Solana | https://solboredapes.io/ | SOLANA |
