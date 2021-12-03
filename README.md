@@ -9,6 +9,15 @@
 ## NFT Mint Engine Featured Projects
 Project Name | Site Url | Blockchain
 :-------------------------:|:-------------------------:|:-------------------------:
+Superlative Apes Club | https://superlativeapes.com/ | ETH | 
+Business Ape Club | https://businessapeclub.com/ | SOLANA | 
+VictorLab | https://victorlab.io/ | ETH | 
+Degen Ape Club | https://degenapeclub.world/#nfts | ETH | 
+Pixel Shibs | https://pixelshibs.com/ | ETH | 
+Notorious Gorillas | https://notoriousgorillas.com/ | ETH | 
+Crazy Santa | https://crazysantanft.com/ | POLYGON | 
+CatBoy | https://catboynft.com/ | BSC | 
+Baby Mutant Punks | https://babymutantpunks.com/ | SOLANA | 
 Gnome Shroom Club | https://gnomeshroomclub.com/ | POLYGON | 
 Solana Wizard | https://solanawizards.online/ | SOLANA | 
 Glewme City | http://glewme.com/ | ETH | 
